@@ -4,5 +4,5 @@
 - 📕 estou aprendendo programação.
 - 🥇 meu objetivo é melhorar as coisas relacionadas a computação.
 - ❓ meu nome verdadeiro não é Cléber, fique a vontade pra tentar descobrir quem eu sou.
-chrome-native://newtab/
+https://chrome-native://newtab/
 <img href="https://pin.it/5QTZET5wo">
