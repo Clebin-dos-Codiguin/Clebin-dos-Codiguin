@@ -1,7 +1,7 @@
        // sobre mim
-- 👋 oi, eu sou @Clebin-dos-Codiguin
-- 👀 crio vários programas
-- 📕 estou aprendendo programação 
-- 🥇 meu objetivo é melhorar as coisas relacionadas a computação
+- 👋 oi, eu sou @Clebin-dos-Codiguin.
+- 👀 crio vários programas.
+- 📕 estou aprendendo programação.
+- 🥇 meu objetivo é melhorar as coisas relacionadas a computação.
 - ❓ meu nome verdadeiro não é Cléber, fique a vontade pra tentar descobrir quem eu sou. 
 <image src="https://images.app.goo.gl/uWZD6C49sf7sYXsH6">
