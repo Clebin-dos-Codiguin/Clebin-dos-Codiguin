@@ -5,4 +5,3 @@
 - 🥇 meu objetivo é melhorar as coisas relacionadas a computação.
 - ❓ meu nome verdadeiro não é Cléber, fique a vontade pra tentar descobrir quem eu sou.
 https://Github.com
-<img href="https://pin.it/5QTZET5wo">
